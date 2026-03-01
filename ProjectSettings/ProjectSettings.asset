@@ -1045,12 +1045,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: df9da4b3-efa1-456d-9414-ac0c8307b75f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Platformer-2D
+  projectName: 2DGameKit
   organizationId: ddayin82
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
